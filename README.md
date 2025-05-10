@@ -51,4 +51,4 @@ Este repositório é o meu caderno de estudos sobre engenharia de dados. Aqui co
 
 ---
 
-> **Nota:** este repositório não tem foco em projetos completos, e sim no processo de aprendizado contínuo. Veja meus projetos práticos em [data-engineering-roadmap]([https://github.com/seuusuario/data-engineering-roadmap](https://github.com/juniorsilvacc/data-engineering-roadmap)).
+> **Nota:** este repositório não tem foco em projetos completos, e sim no processo de aprendizado contínuo. Veja meus projetos práticos em [data-engineering-roadmap](https://github.com/juniorsilvacc/data-engineering-roadmap)).
